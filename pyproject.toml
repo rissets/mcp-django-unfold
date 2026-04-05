@@ -25,9 +25,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/danangharissetiawan/mcp-django-unfold"
-Repository = "https://github.com/danangharissetiawan/mcp-django-unfold"
-Issues = "https://github.com/danangharissetiawan/mcp-django-unfold/issues"
+Homepage = "https://github.com/rissets/mcp-django-unfold"
+Repository = "https://github.com/rissets/mcp-django-unfold"
+Issues = "https://github.com/rissets/mcp-django-unfold/issues"
 
 [project.scripts]
 mcp-django-unfold = "mcp_django_unfold.server:main"

@@ -375,7 +375,7 @@ For any client that supports Docker:
 
 ```bash
 # Clone the repository
-git clone https://github.com/danangharissetiawan/mcp-django-unfold.git
+git clone https://github.com/rissets/mcp-django-unfold.git
 cd mcp-django-unfold
 
 # Install dependencies in a virtual environment
@@ -465,8 +465,8 @@ docker build -t mcp-django-unfold .
 docker run -i --rm mcp-django-unfold
 
 # Tag and push to a registry
-docker tag mcp-django-unfold ghcr.io/danangharissetiawan/mcp-django-unfold:latest
-docker push ghcr.io/danangharissetiawan/mcp-django-unfold:latest
+docker tag mcp-django-unfold ghcr.io/rissets/mcp-django-unfold:latest
+docker push ghcr.io/rissets/mcp-django-unfold:latest
 ```
 
 ### Version Bump Workflow
